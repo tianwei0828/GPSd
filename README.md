@@ -1,6 +1,6 @@
 # GPSd
 A GPSd client with Java
-# Warning:You should use the module with Socket!!!
+# Warning:You should use the module with Socket(https://github.com/tianwei0828/Socket.git)!!!
 ## 一、初始化
 ```java
   client = new GPSdClient(ip, port);
